@@ -30,7 +30,7 @@ var lyricsData = [
   { text: "Nice butterflies in my hands", time: 176 },
   { text: "Too much light for twilight", time: 183 },
   { text: "In the mood for the flowers", time: 188 },
-  { text: "Love.", time: 140 },
+  { text: "Love.", time: 192 },
 ];
 
 // Animar las letras
